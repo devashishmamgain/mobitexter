@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MobiTexter",
+  "name": "SMS Text Messaging from Computer",
   "icons": [
     {
       "src": "favicon.ico",
