@@ -66,6 +66,7 @@ function App() {
                   MobiTexter team<br/>
                   Adarsh Kumar<br/>
                   Devashish Datt Mamgain<br/>
+                  Noushad Alam Siddiqui<br/>
                 </p>
 
               </div>
