@@ -64,9 +64,9 @@ function App() {
                 <p className="alt-lead text-gray-light mt-2 lh-condensed">
                   <hr/>
                   MobiTexter team<br/>
-                  <a href="https://www.linkedin.com/in/akumar001/" target="_blank">Adarsh Kumar</a><br/>
-                  <a href="https://www.linkedin.com/in/devashish-mamgain-1a639320/" target="_blank">Devashish Datt Mamgain</a><br/>
-                  <a href="https://www.linkedin.com/in/noushadsiddiqui/" target="_blank">Noushad Alam Siddiqui</a><br/>
+                  <a href="https://www.linkedin.com/in/akumar001/" target="_blank" rel="noopener noreferrer">Adarsh Kumar</a><br/>
+                  <a href="https://www.linkedin.com/in/devashish-mamgain-1a639320/" target="_blank" rel="noopener noreferrer">Devashish Datt Mamgain</a><br/>
+                  <a href="https://www.linkedin.com/in/noushadsiddiqui/" target="_blank" rel="noopener noreferrer">Noushad Alam Siddiqui</a><br/>
                 </p>
               </div>
               <div class="col-3 mx-auto mx-md-0 offset-md-1 text-center text-md-right">
