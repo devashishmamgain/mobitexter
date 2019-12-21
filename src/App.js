@@ -64,6 +64,7 @@ function App() {
 
                 <p className="alt-lead text-gray-light mt-2 lh-condensed">
                   mobitexter.net domain is for sale at $50k
+                  <br/>Contact us: devashish.mamgain@gmail.com
                 </p>
 
                 <p className="alt-lead text-gray-light mt-2 lh-condensed">
