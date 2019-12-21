@@ -61,6 +61,11 @@ function App() {
                   Thanks to all the people who were a part of our journey.
                 </p>
 
+
+                <p className="alt-lead text-gray-light mt-2 lh-condensed">
+                  mobitexter.net domain is for sale at $50k
+                </p>
+
                 <p className="alt-lead text-gray-light mt-2 lh-condensed">
                   <hr/>
                   MobiTexter team<br/>
